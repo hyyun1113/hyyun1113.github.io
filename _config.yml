@@ -1,8 +1,8 @@
-title: Moonwalk
-author: Abhinav Saxena
+title: Yun
+author: Hyeonyeong Yun
 url: "https://hyyun1113.github.io"
 description: > # description of the site (multiple lines allowed)
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
+  Recording my web development studies. Sharing projects, progress, and tips. Your advice and support are appreciated!
 
 permalink: /:slug
 
