@@ -2,7 +2,8 @@ title: Yun
 author: Hyeonyeong Yun
 url: "https://hyyun1113.github.io"
 description: > # description of the site (multiple lines allowed)
-  Recording my web development studies. Sharing projects, progress, and tips. Your advice and support are appreciated!
+  Recording my web development studies. 
+  Sharing projects, progress, and tips. Your advice and support are appreciated!
 
 permalink: /:slug
 
@@ -36,7 +37,6 @@ theme_config:
     title_projects: Portfolio
     title_misc_list: Details
     title_blog: Blog
-    title_old_projects: Old Projects
 
 soopr:
   publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
